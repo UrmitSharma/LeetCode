@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/UrmitSharma/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/UrmitSharma/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UrmitSharma/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/UrmitSharma/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/UrmitSharma/LeetCode/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/UrmitSharma/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/UrmitSharma/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/UrmitSharma/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/UrmitSharma/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/UrmitSharma/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/UrmitSharma/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
