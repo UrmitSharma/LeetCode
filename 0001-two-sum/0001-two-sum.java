@@ -7,6 +7,6 @@ public class Solution {
                 }
             }
         }
-        return new int[] {}; // In case no pair found
+        return new int[] {}; 
     }
 }
